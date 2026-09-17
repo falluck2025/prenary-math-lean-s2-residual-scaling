@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22719535.svg)](https://doi.org/10.5281/zenodo.22719535)
+
 # 偏元数学 · Day23 · 残差累积的平方根标度及其约束（S2 延续）· Lean 4 形式化验证
 
 ## Prenary Mathematics · Day23 · Square-Root Scaling of Residual Accumulation and Its Constraint (S2 Continuation) · Lean 4 Formal Verification
